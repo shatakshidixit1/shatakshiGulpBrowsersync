@@ -1,0 +1,17 @@
+{
+  "name": "gulpProject",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shatakshi",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp-sourcemaps": "~1.5.2"
+  },
+  "dependencies": {
+    "Polymer": "git://github.com/polymer/polymer"
+  }
+}
